@@ -1,0 +1,11 @@
+.npmignore
+.jshintrc
+.eslintrc
+.jscsrc
+.travis.yml
+
+coverage/
+test/
+
+CONTRIBUTING.md
+CHANGELOG.md
