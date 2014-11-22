@@ -38,8 +38,10 @@
     "istanbul": "^0.3.2",
     "jscs": "^1.7.3",
     "jshint": "^2.5.10",
+    "jsverify": "^0.4.4",
     "ljs": "^0.2.5",
-    "mocha": "^2.0.1"
+    "mocha": "^2.0.1",
+    "underscore": "^1.7.0"
   },
   "keywords": [
     "parser",
