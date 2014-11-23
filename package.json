@@ -1,7 +1,7 @@
 {
   "name": "mixfix",
   "description": "mixfix expression parser",
-  "version": "0.1.4",
+  "version": "0.0.1",
   "homepage": "https://github.com/phadej/mixfix",
   "author": {
     "name": "Oleg Grenrus",
@@ -21,9 +21,6 @@
       "url": "https://github.com/phadej/mixfix/blob/master/LICENSE"
     }
   ],
-  "bin": {
-    "jsgrep": "./bin/jsgrep.js"
-  },
   "main": "lib/mixfix",
   "engines": {
     "node": ">= 0.10.0"

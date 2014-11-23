@@ -1,3 +1,3 @@
 ## Release History
 
-- **XXX** *2014-11-xx* First release
+- **0.0.1** *2014-11-23* Parser combinators
