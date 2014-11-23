@@ -69,7 +69,7 @@ In actual implementation `List token` is represented by an array of tokens and a
 
 ## Release History
 
-- **XXX** *2014-11-xx* First release
+- **0.0.1** *2014-11-23* Parser combinators
 
 ## Contributing
 
