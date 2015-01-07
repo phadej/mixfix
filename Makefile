@@ -35,7 +35,7 @@ istanbul :
 ljs : README.md
 
 README.md :
-	$(LJS) -c false -o README.md lib/mixfix.js
+	$(LJS) --no-code -o README.md lib/mixfix.js
 
 david :
 	$(DAVID)
