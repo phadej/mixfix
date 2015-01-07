@@ -67,6 +67,17 @@ In actual implementation `List token` is represented by an array of tokens and a
 
 
 
+## lexer
+
+A very simple lexer.
+
+
+- `lexer.create(specification: List (String | RegExp)): String -> List String`
+
+    Creates a tokenizer function.
+
+
+
 ## Release History
 
 - **0.0.1** *2014-11-23* Parser combinators
